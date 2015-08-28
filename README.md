@@ -5,29 +5,31 @@ IS na spravu a planovanie zmien zamestnancov v predajniach.
 #Modul zamestnanci
 V sekcii zamestnanci spravujem zoznam zamestnancov. Zoznam viem filtrovat podla mena.
 Zamestnanca viem pridavat, editovat a mazat.
+
 O zamestnancovi evidujem nasledovne udaje:
-­ meno priezvisko
-­ email
-­ telefon
-­ datum nastupu
+* meno priezvisko
+* email
+* telefon
+* datum nastupu
+
 Po kliknuti na zamestnanca vidim jeho detail. V nom vidim:
-­ udaje o zamestnancovi
-­ zoznam naplanovanych zmien na tento mesiac
-­ statistiky zamestnanca:
-­ pocet naplanovanych hodin na tento mesiac
-­ pocet odpracovanych hodin tento mesiac
-­ priemerny pocet odpracovanych hodin mesacne
-­ historiu:
-­ pocet odpracovanych hodin po mesiacoch odo dna nastupu
+* udaje o zamestnancovi
+* zoznam naplanovanych zmien na tento mesiac
+* statistiky zamestnanca:
+* pocet naplanovanych hodin na tento mesiac
+* pocet odpracovanych hodin tento mesiac
+* priemerny pocet odpracovanych hodin mesacne
+* historiu:
+* pocet odpracovanych hodin po mesiacoch odo dna nastupu
 
 #Modul predajne
 V sekcii predajne vidim zoznam predajni. Zoznam viem filtrovat podla nazvu.
 Predajnu viem pridavat, editovat a mazat.
 O predajni evidujem nasledovne udaje:
-­ nazov
-­ adresa
-­ telefon
-­ otvaracie hodiny
+* nazov
+* adresa
+* telefon
+* otvaracie hodiny
 
 #Modul zmeny
 V tomto module vidim zalozky jednotlivych predajni. Kazda predajna ma vlastny kalendar, v
@@ -50,28 +52,28 @@ Modul zamestnanci
 V sekcii zamestnanci spravujem zoznam zamestnancov. Zoznam viem filtrovat podla mena.
 Zamestnanca viem pridavat, editovat a mazat.
 O zamestnancovi evidujem nasledovne udaje:
-­ meno priezvisko
-­ email
-­ telefon
-­ datum nastupu
+* meno priezvisko
+* email
+* telefon
+* datum nastupu
 Po kliknuti na zamestnanca vidim jeho detail. V nom vidim:
-­ udaje o zamestnancovi
-­ zoznam naplanovanych zmien na tento mesiac
-­ statistiky zamestnanca:
-­ pocet naplanovanych hodin na tento mesiac
-­ pocet odpracovanych hodin tento mesiac
-­ priemerny pocet odpracovanych hodin mesacne
-­ historiu:
-­ pocet odpracovanych hodin po mesiacoch odo dna nastupu
+* udaje o zamestnancovi
+* zoznam naplanovanych zmien na tento mesiac
+* statistiky zamestnanca:
+* pocet naplanovanych hodin na tento mesiac
+* pocet odpracovanych hodin tento mesiac
+* priemerny pocet odpracovanych hodin mesacne
+* historiu:
+* pocet odpracovanych hodin po mesiacoch odo dna nastupu
 
 #Modul predajne
 V sekcii predajne vidim zoznam predajni. Zoznam viem filtrovat podla nazvu.
 Predajnu viem pridavat, editovat a mazat.
 O predajni evidujem nasledovne udaje:
-­ nazov
-­ adresa
-­ telefon
-­ otvaracie hodiny
+* nazov
+* adresa
+* telefon
+* otvaracie hodiny
 Modul zmeny
 V tomto module vidim zalozky jednotlivych predajni. Kazda predajna ma vlastny kalendar, v
 ktorom vidim, ktori zamestnanci maju dany den zmenu. Pokial nieje niektory den pokryty
