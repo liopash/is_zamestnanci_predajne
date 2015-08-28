@@ -48,7 +48,8 @@ do), zoradeny podla dni.
 Neriesme prihlasovanie zamestnancov, zoznam zmien uvidi ktokolvek s linkom.# is_zamestnanci_predajne
 Planovanie zmien v predajni
 IS na spravu a planovanie zmien zamestnancov v predajniach.
-Modul zamestnanci
+
+#Modul zamestnanci
 V sekcii zamestnanci spravujem zoznam zamestnancov. Zoznam viem filtrovat podla mena.
 Zamestnanca viem pridavat, editovat a mazat.
 O zamestnancovi evidujem nasledovne udaje:
@@ -74,7 +75,8 @@ O predajni evidujem nasledovne udaje:
 * adresa
 * telefon
 * otvaracie hodiny
-Modul zmeny
+
+#Modul zmeny
 V tomto module vidim zalozky jednotlivych predajni. Kazda predajna ma vlastny kalendar, v
 ktorom vidim, ktori zamestnanci maju dany den zmenu. Pokial nieje niektory den pokryty
 zamestnancom pocas celej doby otvaracich hodin, vidim tento den farebne odlisne.
