@@ -1,6 +1,7 @@
 *links*
 http://joshbenner.me/blog/understanding-cakephp-associations/
 http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488
+http://www.cakecoded.com/article/cakephp-model-associations
 
 CREATE TABLE workers (
     id INT AUTO_INCREMENT PRIMARY KEY,
