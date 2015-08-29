@@ -1,0 +1,31 @@
+
+http://joshbenner.me/blog/understanding-cakephp-associations/
+
+CREATE TABLE workers (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    meno VARCHAR(255) NOT NULL,
+    priezvisko VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    nastup DATETIME,
+    created DATETIME,
+    modified DATETIME
+);
+
+CREATE TABLE shops (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nazov VARCHAR(255) NOT NULL,
+    adresa VARCHAR(255) NOT NULL,
+    telefon VARCHAR(255) NOT NULL,
+    created DATETIME,
+    modified DATETIME
+);
+
+CREATE TABLE shifts (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    worker_id INT NOT NULL,
+    shop_id INT NOT NULL,
+    zaciatok DATETIME,
+    koniec DATETIME,
+     created DATETIME,
+    modified DATETIME
+);
