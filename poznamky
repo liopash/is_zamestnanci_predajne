@@ -3,6 +3,7 @@ http://joshbenner.me/blog/understanding-cakephp-associations/
 http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488
 http://www.cakecoded.com/article/cakephp-model-associations
 http://stackoverflow.com/questions/13711716/cakephp-sum-data-in-another-relation-table
+http://duckranger.com/2010/03/fullcalendar-and-cakephp-part-1-set-up/    
 
 CREATE TABLE workers (
     id INT AUTO_INCREMENT PRIMARY KEY,
