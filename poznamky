@@ -5,6 +5,9 @@ http://www.cakecoded.com/article/cakephp-model-associations
 http://stackoverflow.com/questions/13711716/cakephp-sum-data-in-another-relation-table
 http://duckranger.com/2010/03/fullcalendar-and-cakephp-part-1-set-up/    
 http://www.abclinuxu.cz/serialy/cakephp-tvorime-cms
+http://www.cakephpexample.com/
+http://www.cakecoded.com/learn-cakephp
+
 http://read.humanjavascript.com/
 https://github.com/getify/You-Dont-Know-JS
 
@@ -40,6 +43,9 @@ CREATE TABLE shifts (
     modified DATETIME
 );
 
-CREATE TABLE payslips (
+CREATE TABLE shifts_workers (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    
+    worker_id INT NOT NULL,
+    shop_id INT NOT NULL
+);
+
