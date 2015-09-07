@@ -16,6 +16,10 @@ https://github.com/getify/You-Dont-Know-JS
 
 https://www.reddit.com/r/webdev/comments/3iuzu7/js_and_css_books_all_web_developers_must_read/
 
+public $virtualFields = array( 
+    'full_name' => 'CONCAT(User.last_name, ", ", User.first_name)' 
+); 
+
 
 CREATE TABLE workers (
     id INT AUTO_INCREMENT PRIMARY KEY,
