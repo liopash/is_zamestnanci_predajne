@@ -18,10 +18,14 @@ https://www.reddit.com/r/webdev/comments/3iuzu7/js_and_css_books_all_web_develop
 
 http://stackoverflow.com/questions/6908202/how-can-i-concat-first-name-and-last-name-two-different-database-fields-to-assig
 
+* data - generator
+http://www.generatedata.com/
+
 
 public $virtualFields = array( 
     'full_name' => 'CONCAT(User.last_name, ", ", User.first_name)' 
 ); 
+
 
 
 CREATE TABLE workers (
